@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/59458c43c534a57e3a063109/1656963234901-66ADNNTGEK967OS82XKW/Website+Background+Options+%281%29.png?format=2500w);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: justify; 
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
